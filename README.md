@@ -75,5 +75,4 @@ For questions or feedback about this analysis, please reach out:
 - GitHub: https://github.com/ankit4533
 - Email: ankitchaudhari4501@gmail.com
 
----
-*Note: This project is part of a data analytics portfolio demonstrating skills in data visualization, business intelligence, and hospitality analytics.*
+ 
