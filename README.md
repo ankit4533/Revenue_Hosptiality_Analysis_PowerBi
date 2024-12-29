@@ -1,36 +1,79 @@
- Problem statement
-Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+# Atliq Grands Hotels Analytics Project 🏨
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
+## Problem Statement
 
-Task List
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+**Atliq Grands**, a prominent chain of five-star hotels across India with 20 years of hospitality experience, is facing challenges:
+- Losing market share and revenue in the luxury/business hotels category
+- Facing strategic competition
+- Dealing with ineffective management decisions
 
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Provided Mock-up Dashboard
+To address these challenges, the managing director has initiated a "Business and Data Intelligence" project, partnering with a 3rd party analytics service provider.
 
+## Project Objectives 🎯
 
-Data Model
+1. Create metrics as per stakeholder requirements
+2. Develop a dashboard following provided mock-up designs
+3. Generate additional insights beyond the basic metrics
 
+## Data Model Structure 📊
 
-Overall Analysis View
+![Data Model](https://github.com/user-attachments/assets/b2d6ffaf-deb4-43e7-a2e1-5213179c44fc)
 
+## Dashboard Views 📈
 
-Monthly Analysis View
+### Monthly Analysis
+![Monthly View](https://github.com/user-attachments/assets/c7a9b111-c58d-4bf6-b4e2-81441e3555e9)
 
+### Overall Analysis
+![Overall View](https://github.com/user-attachments/assets/0667fe47-83fd-4649-92a0-df34db0b643f)
 
-Learnt things from this Project
-Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. (Article referred)
-By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-Learnt, how to use bookmarks and selection for different purposes. (Page navigation and clear filter button in the dashboard was achieved using bookmarks and selection. website like page navigation YouTube tutorial )
-Tried using color palette and stick with that colors throughout the dashboard (Color palette link)
-Some Important insights from the Dashboard
-Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
-AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
-AtliQ Bay has the highest occupancy of 66%
-Week 24 recorded the highest revenue among all, which is 139.6 Million
-Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
-AtliQ lost around 298 Million in cancellation
-Elite type rooms has the most booking and as well higher cancellation rate
+## Technical Learnings 💡
+
+1. **Calendar Visual Creation**
+   - Built custom calendar visual using matrix table
+   - Enhanced analysis capabilities for various purposes
+
+2. **Hotel Cancellation Policy Analysis**
+   - Zero fee cancellation before 3 months of booking
+   - 60-90% charges for cancellations after the deadline
+
+3. **Advanced Dashboard Features**
+   - Implemented bookmarks and selection techniques
+   - Created navigation systems and filter controls
+   - Utilized consistent color palette throughout
+
+## Key Insights from Analysis 🔍
+
+### Revenue Analysis
+- **Mumbai** leads with __669M__ revenue
+- Followed by Bangalore, Hyderabad, and Delhi
+
+### Property Performance
+- **AtliQ Exotica** stands out with:
+  - Revenue: 320M
+  - Rating: 3.62
+  - Occupancy: 57%
+  - Cancellation Rate: 24.4%
+
+### Occupancy Metrics
+- **AtliQ Bay** achieves highest occupancy at 66%
+- **Delhi** leads in both occupancy and ratings
+- Followed by Hyderabad, Mumbai, Bangalore
+
+### Critical Metrics
+- Week 24 generated peak revenue: 139.6M
+- Total revenue loss from cancellations: 298M
+
+## Tools & Technologies Used 🛠️
+- Power BI
+- Excel
+- SQL
+- DAX
+
+## Contact Information 📧
+For questions or feedback about this analysis, please reach out:
+- GitHub: https://github.com/ankit4533
+- Email: ankitchaudhari4501@gmail.com
+
+---
+*Note: This project is part of a data analytics portfolio demonstrating skills in data visualization, business intelligence, and hospitality analytics.*
